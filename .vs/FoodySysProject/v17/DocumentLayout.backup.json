@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\visua\\Desktop\\EXPREP2\\FoodySysProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD930FD-7981-453B-836E-787C94480BE7}|FoodySysProject\\FoodySysProject.csproj|c:\\users\\visua\\desktop\\exprep2\\foodysysproject\\foodysysproject\\foodysystests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD930FD-7981-453B-836E-787C94480BE7}|FoodySysProject\\FoodySysProject.csproj|solutionrelative:foodysysproject\\foodysystests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodySysTests.cs",
+              "DocumentMoniker": "C:\\Users\\visua\\Desktop\\EXPREP2\\FoodySysProject\\FoodySysProject\\FoodySysTests.cs",
+              "RelativeDocumentMoniker": "FoodySysProject\\FoodySysTests.cs",
+              "ToolTip": "C:\\Users\\visua\\Desktop\\EXPREP2\\FoodySysProject\\FoodySysProject\\FoodySysTests.cs",
+              "RelativeToolTip": "FoodySysProject\\FoodySysTests.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAqwMsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T06:51:36.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
